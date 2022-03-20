@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joenakay
+- 👀 I’m a full-stack typescript dev using react, node
+- 🌱 I’m currently learning solidty rust
+- 📫 How to reach me https://twitter.com/joe_nakay
